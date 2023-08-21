@@ -1,10 +1,11 @@
 import express from "express";
 const app = express();
-const port = 3000;
+const port = 5000;
 
 // *********************
-// Let’s practice using Postman. Make sure your server is running with nodemon.
-// Then test the 5 different routes below with Postman. Open a separate tab for each request.
+// you can use postman or thender client on VScode
+// Let’s practice using Postman. Make sure server is running with nodemon.
+// Then I will test the 5 different routes below with Postman. Open a separate tab for each request.
 // Check that for each route you’re getting the correct status code returned to you from your server.
 // You should not get any 404s or 500 status codes.
 // *********************
